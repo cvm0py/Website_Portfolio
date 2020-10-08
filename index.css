@@ -1,0 +1,40 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.carousel-inner img {
+     margin-left: 25%;
+      width: 50%;
+      height: 350px;
+  }
+.mynav{
+	background-color: 	 #f2f2f2;
+}
+.abc{
+	color: white;
+}
+.footer.jumbotron {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.footer.jumbotron p{
+  margin-bottom: 0;
+}
+#header .bottom-header {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.anyClass {
+  height:150px;
+  overflow-y: scroll;
+}
